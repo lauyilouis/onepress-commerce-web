@@ -1,5 +1,4 @@
 # Onepress commerce
-
 Onepress commerce is an open-source e-commerce project developed using modern web technologies. Multiple platforms including web and mobile are supported. The project contains 4 modules which are Shopfront Web, CMS Web, Shopfront Mobile and API Server.
 
 This repository is containing the following web modules:

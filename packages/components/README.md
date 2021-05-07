@@ -1,5 +1,4 @@
-#### Onepress Commerce Web UI
-
+# Onepress Commerce Web UI
 Onepress Commerce Web UI is the web application UI library used by Onepress Commerce.
 
 ## Tech stack

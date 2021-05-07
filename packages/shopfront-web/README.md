@@ -1,5 +1,4 @@
-#### Onepress Commerce Shopfront Web
-
+# Onepress Commerce Shopfront Web
 Onepress Commerce Shopfront Web is the shopfront web application of Onepress Commerce.
 
 ## Tech stack

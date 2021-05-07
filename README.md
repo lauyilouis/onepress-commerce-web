@@ -8,12 +8,14 @@ This repository is containing the following web modules:
 
 ## Tech stack
 ### Development
-1. [React.js](https://reactjs.org/)
-2. [Next.js](https://nextjs.org/)
-3. [Apollo GraphQL Client](https://www.apollographql.com/docs/react)
-4. [Typescript](https://www.typescriptlang.org/)
-5. [Lerna](https://github.com/lerna/lerna)
-6. [Firebase Authentication](https://firebase.google.com/docs/auth)
+1. [Typescript](https://www.typescriptlang.org/)
+2. [React.js](https://reactjs.org/)
+3. [Next.js](https://nextjs.org/)
+4. [Lerna](https://github.com/lerna/lerna)
+5. [Storybook](https://storybook.js.org/)
+6. [Material-UI](https://material-ui.com/)
+7. [Apollo GraphQL Client](https://www.apollographql.com/docs/react)
+8. [Firebase Authentication](https://firebase.google.com/docs/auth)
 
 ### CI/CD
 1. [Mocha](https://mochajs.org/)

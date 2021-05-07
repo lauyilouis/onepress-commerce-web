@@ -1,0 +1,29 @@
+# Onepress commerce
+
+Onepress commerce is an open-source e-commerce project developed using modern web technologies. Multiple platforms including web and mobile are supported. The project contains 4 modules which are Shopfront Web, CMS Web, Shopfront Mobile and API Server.
+
+This repository is containing the following web modules:
+1. Shopfront Web
+2. CMS Web
+
+## Tech stack
+### Development
+1. [React.js](https://reactjs.org/)
+2. [Next.js](https://nextjs.org/)
+3. [Apollo GraphQL Client](https://www.apollographql.com/docs/react)
+4. [Typescript](https://www.typescriptlang.org/)
+5. [Lerna](https://github.com/lerna/lerna)
+6. [Firebase Authentication](https://firebase.google.com/docs/auth)
+
+### CI/CD
+1. [Mocha](https://mochajs.org/)
+2. [Cypress](https://www.cypress.io/)
+3. [Eslint](https://eslint.org/)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

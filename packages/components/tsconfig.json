@@ -9,6 +9,7 @@
     "strict": true,
     "declaration": true,
     "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
@@ -16,6 +17,13 @@
     "jsx": "react-jsx",
     "importHelpers": true,
     "outDir": "./dist",
+    "plugins": [
+      {
+        "transform": "typescript-plugin-styled-components",
+        "type": "config",
+        "ssr": true
+      }
+    ]
   },
   "include": [
     "src"
@@ -24,5 +32,5 @@
     "node_modules",
     "**/*.spec.ts",
     "**/*.stories.tsx"
-  ]
+  ],
 }

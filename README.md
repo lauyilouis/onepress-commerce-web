@@ -14,8 +14,9 @@ This repository is containing the following web modules:
 4. [Lerna](https://github.com/lerna/lerna)
 5. [Storybook](https://storybook.js.org/)
 6. [Material-UI](https://material-ui.com/)
-7. [Apollo GraphQL Client](https://www.apollographql.com/docs/react)
-8. [Firebase Authentication](https://firebase.google.com/docs/auth)
+7. [Styled-Components](https://styled-components.com/)
+8. [Apollo GraphQL Client](https://www.apollographql.com/docs/react)
+9. [Firebase Authentication](https://firebase.google.com/docs/auth)
 
 ### CI/CD
 1. [Mocha](https://mochajs.org/)

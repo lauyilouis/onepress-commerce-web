@@ -1,6 +1,6 @@
 {
   "eslint.workingDirectories": [
     "./packages/components",
-    "./packages/web",
+    "./packages/shopfront-web",
   ]
 }

@@ -2,6 +2,7 @@
 Onepress Commerce Shopfront Web is the shopfront web application of Onepress Commerce.
 
 ## Tech stack
+### Development
 1. [Typescript](https://www.typescriptlang.org/)
 2. [React.js](https://reactjs.org/)
 3. [Next.js](https://reactjs.org/)
@@ -15,7 +16,7 @@ Onepress Commerce Shopfront Web is the shopfront web application of Onepress Com
 2. [Cypress](https://www.cypress.io/)
 3. [Eslint](https://eslint.org/)
 
-### Notes of usage with styled-components
+## Notes of usage with styled-components
 The following error may occur if you are using Next.js with version >= 9.1:
 ```
 Warning: Prop className did not match. Server:...

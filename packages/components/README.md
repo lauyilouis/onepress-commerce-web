@@ -2,6 +2,7 @@
 Onepress Commerce Web UI is the web application UI library used by Onepress Commerce.
 
 ## Tech stack
+### Development
 1. [Typescript](https://www.typescriptlang.org/)
 2. [React.js](https://reactjs.org/)
 3. [Storybook](https://storybook.js.org/)
@@ -13,7 +14,7 @@ Onepress Commerce Web UI is the web application UI library used by Onepress Comm
 2. [Cypress](https://www.cypress.io/)
 3. [Eslint](https://eslint.org/)
 
-### Notes of usage with Next.js and styled-component SSR
+## Notes of usage with Next.js and styled-component SSR
 The following error may occur if you are using Next.js with version >= 9.1:
 ```
 Warning: Prop className did not match. Server:...

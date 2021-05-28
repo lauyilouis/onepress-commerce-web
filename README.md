@@ -22,6 +22,10 @@ This repository is containing the following web modules:
 2. [Cypress](https://www.cypress.io/)
 3. [Eslint](https://eslint.org/)
 
+## How to Start
+1. run `yarn` to install dependencies.
+2. run `yarn start` to start the nextjs web server.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
